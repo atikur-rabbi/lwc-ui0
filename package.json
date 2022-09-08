@@ -1,6 +1,6 @@
 {
   "name": "@wcd/atikur-rabbi.lwc-ui0",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "scripts": {
     "serve": "npx wcd-cli@latest serve b5SgXmapVsTQwaqRIOtp --open"
   }
